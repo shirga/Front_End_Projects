@@ -1,0 +1,57 @@
+body {
+  font-family: Dosis;
+  min-height: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("https://tau0.files.wordpress.com/2014/02/cows_and_clouds_bw.jpg") 
+}
+
+.full-text {
+  margin-top: 50px;
+  background-color: rgba(225, 225, 225, 0.7);
+  border-style: none;
+  border-radius: 25px;
+  border-color: #196666;
+  border-width: 8px;
+}
+
+h1 {
+  font-size: 50px; 
+  opacity: 1;
+}
+
+.location {
+  margin-top: 10px;
+  color: #cc0000;
+  margin-bottom: 10px;
+  font-size: 40px;
+}
+
+.temp {
+  margin-top: 10px;
+  font-size: 50px;
+}
+
+.description {
+  font-size: 40px;
+}
+
+.buttons{
+  font-size: 18px;
+  color: white;
+  background-color: black;#cc0000;  
+  height: 45px;
+  width: 45px;
+}
+
+#degrees{
+  margin: 20px 5px 0px 10px;
+
+}
+
+#refresh{
+  margin: 20px 25px 0px 5px;
+
+}
