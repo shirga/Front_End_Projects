@@ -1,0 +1,63 @@
+body {
+  font-family: "Droid Serif", sans-serif;
+  background-color: #3d3536;
+  color: #3d3536;
+  -webkit-transition: background-color color 2s ease;
+  -moz-transition: background-color 2s ease;
+  -o-transition: background-color 2s ease;
+  transition: background-color 2s ease;
+}
+
+.quote-box {
+  margin-top: 50px;
+  padding: 50px 50px 20px 50px;
+}
+
+h1 {
+  font-size: 40px;
+  color: white;
+}
+
+.apostrophes {
+  font-family: "Sorts Mill Goudy";
+  font-size: 100px;
+  -webkit-transition: color 2s ease;
+  -moz-transition: color 2s ease;
+  -o-transition: color 2s ease;
+  transition: color 2s ease;
+}
+
+.quote {
+  font-size: 30px;
+  -webkit-transition: color 2s ease;
+  -moz-transition: color 2s ease;
+  -o-transition: color 2s ease;
+  transition: color 2s ease;
+}
+
+.author {
+  font-size: 20px;
+  -webkit-transition: color 2s ease;
+  -moz-transition: color 2s ease;
+  -o-transition: color 2s ease;
+  transition: color 2s ease;
+}
+
+.buttons {
+  margin-top: 50px;
+  background-color: #3d3536;
+  color: white;
+  -webkit-transition: background-color 2s ease;
+  -moz-transition: background-color 2s ease;
+  -o-transition: background-color 2s ease;
+  transition: background-color 2s ease;
+}
+
+.buttons:hover {
+  opacity: 0.9;
+  color: white;
+}
+
+#getQuote {
+  margin-left: 300px;
+}
